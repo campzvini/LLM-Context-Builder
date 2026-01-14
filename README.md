@@ -82,4 +82,4 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 
 ## 🤝 Contribuições
 
-Issues e PRs bem-vindos! Veja [AGENTS.md](AGENTS.md) para arquitetura técnica.
+Feito inteiro com Opencode! Veja [AGENTS.md](AGENTS.md) para arquitetura técnica.
