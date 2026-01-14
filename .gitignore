@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+logs/
+build/
+dist/
+*.exe
+.DS_Store
+.vscode/
+.idea/
+*.tmp
+temp_*.py
+debug_*.log
